@@ -1,0 +1,1 @@
+This is a prototype of a USB audio driver for truSDX, written in Go.
